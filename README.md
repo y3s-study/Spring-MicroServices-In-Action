@@ -1,7 +1,7 @@
 # Spring-MicroService-In-Action
 spring microservice with spring boot and spring cloud
 
-스프링 마이크로서비스의 구조 구현 방법에 대해서 공부해 보자.
+스프링 마이크로서비스의 구조와 구현 방법에 대해서 공부해 보자.
 
 ## 교재
 <img width="150" src="http://image.yes24.com/momo/TopCate2081/MidCate010/208097514.jpg">
