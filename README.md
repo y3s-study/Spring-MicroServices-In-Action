@@ -13,8 +13,8 @@ spring microservice with spring boot and spring cloud
 ### 1장. 스프링, 클라우드와 만나다
 https://docs.google.com/presentation/d/1XFPL2wg96676PgeAJEh3XR9CRVae1T4Uxx39iAZgu3k/edit#slide=id.p (조성국)
 
-
-
+### 2장. 스프링 부트로 마이크로서비스 구축
+https://slides.com/youngjunpark/spring-boot-micro-service#/ (박영준)
 
 ---
 
