@@ -17,6 +17,9 @@ https://docs.google.com/presentation/d/1XFPL2wg96676PgeAJEh3XR9CRVae1T4Uxx39iAZg
 https://slides.com/youngjunpark/spring-boot-micro-service#/ (박영준)
 https://docs.google.com/presentation/d/1CrDW2qZlLZHSuhEHi-APDzJyPVUCxOmV5EUNEU1qspc/edit?usp=sharing (조성국)
 
+### 3장. 스프링 클라우드 컨피그 서버로 구성 관리
+https://docs.google.com/presentation/d/110uaawE2S_rwPdsZlT9Rff8z8cYZuxur7zO8hHvDX04/edit?usp=sharing (조성국)
+
 ---
 
 <h1> 스프링 마이크로서비스 코딩 공작소(길벗, 2018)
