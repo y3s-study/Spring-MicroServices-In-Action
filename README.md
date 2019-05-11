@@ -16,9 +16,11 @@ https://docs.google.com/presentation/d/1XFPL2wg96676PgeAJEh3XR9CRVae1T4Uxx39iAZg
 ### 2장. 스프링 부트로 마이크로서비스 구축
 https://slides.com/youngjunpark/spring-boot-micro-service#/ (박영준)
 https://docs.google.com/presentation/d/1CrDW2qZlLZHSuhEHi-APDzJyPVUCxOmV5EUNEU1qspc/edit?usp=sharing (조성국)
+https://slides.com/ssbslides/microservice-chapter2 (송성빈)
 
 ### 3장. 스프링 클라우드 컨피그 서버로 구성 관리
 https://docs.google.com/presentation/d/110uaawE2S_rwPdsZlT9Rff8z8cYZuxur7zO8hHvDX04/edit?usp=sharing (조성국)
+https://slides.com/ssbslides/microservice-chapter3 (송성빈)
 
 ---
 
