@@ -22,6 +22,9 @@ https://slides.com/ssbslides/microservice-chapter2 (송성빈)
 https://docs.google.com/presentation/d/110uaawE2S_rwPdsZlT9Rff8z8cYZuxur7zO8hHvDX04/edit?usp=sharing (조성국)
 https://slides.com/ssbslides/microservice-chapter3 (송성빈)
 
+### 5장. 나쁜 상황에 대비한 스프링 클라우드와 넷플릭스 히스트릭스의 클라이언트 회복성 패턴
+https://docs.google.com/presentation/d/15tUHeZuFqAswH3H4k2R6Ysizur5BAOEn9T74yJz2fHI/edit?usp=sharing (조성국)
+
 ---
 
 <h1> 스프링 마이크로서비스 코딩 공작소(길벗, 2018)
