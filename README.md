@@ -11,23 +11,23 @@ spring microservice with spring boot and spring cloud
 
 ## 발표자료
 ### 1장. 스프링, 클라우드와 만나다
-https://docs.google.com/presentation/d/1XFPL2wg96676PgeAJEh3XR9CRVae1T4Uxx39iAZgu3k/edit#slide=id.p (조성국)
+- https://docs.google.com/presentation/d/1XFPL2wg96676PgeAJEh3XR9CRVae1T4Uxx39iAZgu3k/edit#slide=id.p (조성국)
 
 ### 2장. 스프링 부트로 마이크로서비스 구축
-https://slides.com/youngjunpark/spring-boot-micro-service#/ (박영준)
-https://docs.google.com/presentation/d/1CrDW2qZlLZHSuhEHi-APDzJyPVUCxOmV5EUNEU1qspc/edit?usp=sharing (조성국)
-https://slides.com/ssbslides/microservice-chapter2 (송성빈)
+- https://slides.com/youngjunpark/spring-boot-micro-service#/ (박영준)
+- https://docs.google.com/presentation/d/1CrDW2qZlLZHSuhEHi-APDzJyPVUCxOmV5EUNEU1qspc/edit?usp=sharing (조성국)
+- https://slides.com/ssbslides/microservice-chapter2 (송성빈)
 
 ### 3장. 스프링 클라우드 컨피그 서버로 구성 관리
-https://docs.google.com/presentation/d/110uaawE2S_rwPdsZlT9Rff8z8cYZuxur7zO8hHvDX04/edit?usp=sharing (조성국)
-https://slides.com/ssbslides/microservice-chapter3 (송성빈)
-https://slides.com/youngjunpark/spring-cloud-config-server (박영준)
+- https://docs.google.com/presentation/d/110uaawE2S_rwPdsZlT9Rff8z8cYZuxur7zO8hHvDX04/edit?usp=sharing (조성국)
+- https://slides.com/ssbslides/microservice-chapter3 (송성빈)
+- https://slides.com/youngjunpark/spring-cloud-config-server (박영준)
 
 ### 4장. 서비스 디스커버리
-https://slides.com/youngjunpark/service-discovery (박영준)
+- https://slides.com/youngjunpark/service-discovery (박영준)
 
 ### 5장. 나쁜 상황에 대비한 스프링 클라우드와 넷플릭스 히스트릭스의 클라이언트 회복성 패턴
-https://docs.google.com/presentation/d/15tUHeZuFqAswH3H4k2R6Ysizur5BAOEn9T74yJz2fHI/edit?usp=sharing (조성국)
+- https://docs.google.com/presentation/d/15tUHeZuFqAswH3H4k2R6Ysizur5BAOEn9T74yJz2fHI/edit?usp=sharing (조성국)
 
 ---
 
