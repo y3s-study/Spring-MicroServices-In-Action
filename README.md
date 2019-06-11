@@ -31,6 +31,7 @@ spring microservice with spring boot and spring cloud
 
 ### 6장. 스프링 클라우드와 주울로 서비스 라우팅
 - https://docs.google.com/presentation/d/1DQAPmmFP2MIAwKCQneacQqQpArIFCMkYaryNdDjrubQ/edit?usp=sharing (조성국)
+- https://slides.com/youngjunpark/service-gateway/#/ (박영준)
 
 ---
 
