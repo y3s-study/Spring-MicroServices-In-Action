@@ -25,14 +25,16 @@ spring microservice with spring boot and spring cloud
 
 ### 4장. 서비스 디스커버리
 - https://slides.com/youngjunpark/service-discovery (박영준)
+- https://slides.com/ssbslides/microservice-chapter4 (송성빈)
 
 ### 5장. 나쁜 상황에 대비한 스프링 클라우드와 넷플릭스 히스트릭스의 클라이언트 회복성 패턴
 - https://docs.google.com/presentation/d/15tUHeZuFqAswH3H4k2R6Ysizur5BAOEn9T74yJz2fHI/edit?usp=sharing (조성국)
+- https://slides.com/ssbslides/microservice-chapter5 (송성빈)
 
 ### 6장. 스프링 클라우드와 주울로 서비스 라우팅
 - https://docs.google.com/presentation/d/1DQAPmmFP2MIAwKCQneacQqQpArIFCMkYaryNdDjrubQ/edit?usp=sharing (조성국)
 - https://slides.com/youngjunpark/service-gateway/#/ (박영준)
-
+- https://slides.com/ssbslides/microservice-chapter6 (송성빈)
 ---
 
 <h1> 스프링 마이크로서비스 코딩 공작소(길벗, 2018)
