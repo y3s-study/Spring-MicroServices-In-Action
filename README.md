@@ -38,6 +38,10 @@ spring microservice with spring boot and spring cloud
 
 ### 7장. 마이크로서비스의 보안
 - https://docs.google.com/presentation/d/1CpXJWVMlTvtZcppcWODz9ncyL_fopmM7G7fbbaH85sU/edit?usp=sharing (조성국)
+
+### 8장. 스프링 클라우드 스트림을 사용한 이벤트 기반 아키텍처
+- https://docs.google.com/presentation/d/1FNy3mkoUr-eLqqigTTI-WVIhCrsxBCVTDY9xIgpKHpQ/edit?usp=sharing (조성국)
+
 ---
 
 <h1> 스프링 마이크로서비스 코딩 공작소(길벗, 2018)
