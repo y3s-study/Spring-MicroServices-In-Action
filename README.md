@@ -41,6 +41,7 @@ spring microservice with spring boot and spring cloud
 
 ### 8장. 스프링 클라우드 스트림을 사용한 이벤트 기반 아키텍처
 - https://docs.google.com/presentation/d/1FNy3mkoUr-eLqqigTTI-WVIhCrsxBCVTDY9xIgpKHpQ/edit?usp=sharing (조성국)
+- https://slides.com/youngjunpark/spring-cloud-stream#/ (박영준)
 
 ---
 
