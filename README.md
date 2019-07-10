@@ -43,6 +43,9 @@ spring microservice with spring boot and spring cloud
 - https://docs.google.com/presentation/d/1FNy3mkoUr-eLqqigTTI-WVIhCrsxBCVTDY9xIgpKHpQ/edit?usp=sharing (조성국)
 - https://slides.com/youngjunpark/spring-cloud-stream#/ (박영준)
 
+### 9장. 스프링 클라우드 슬루스와 집킨을 이용한 분산 추적
+- https://docs.google.com/presentation/d/179HBd9pACaBcR1YHHajY5d-8guXnWS_yZhABzdFydaE/edit?usp=sharing (조성국)
+
 ---
 
 <h1> 스프링 마이크로서비스 코딩 공작소(길벗, 2018)
