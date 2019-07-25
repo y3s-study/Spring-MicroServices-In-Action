@@ -38,13 +38,16 @@ spring microservice with spring boot and spring cloud
 
 ### 7장. 마이크로서비스의 보안
 - https://docs.google.com/presentation/d/1CpXJWVMlTvtZcppcWODz9ncyL_fopmM7G7fbbaH85sU/edit?usp=sharing (조성국)
+- https://slides.com/ssbslides/microservice-chapter7 (송성빈)
 
 ### 8장. 스프링 클라우드 스트림을 사용한 이벤트 기반 아키텍처
 - https://docs.google.com/presentation/d/1FNy3mkoUr-eLqqigTTI-WVIhCrsxBCVTDY9xIgpKHpQ/edit?usp=sharing (조성국)
 - https://slides.com/youngjunpark/spring-cloud-stream#/ (박영준)
+- https://slides.com/ssbslides/microservice-chapter8 (송성빈)
 
 ### 9장. 스프링 클라우드 슬루스와 집킨을 이용한 분산 추적
 - https://docs.google.com/presentation/d/179HBd9pACaBcR1YHHajY5d-8guXnWS_yZhABzdFydaE/edit?usp=sharing (조성국)
+- https://slides.com/ssbslides/microservice-chapter9 (송성빈)
 
 ---
 
